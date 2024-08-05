@@ -10,7 +10,7 @@
 
 - 📄 Student at National Institute of Technology Patna
 
-- ⚡ Fun fact **I think I am Strong**
+- ⚡ Fun fact **Nothing**💁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
