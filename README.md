@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **roytanya1403@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fNm7tNnvmT9Hmbd_wxyhPOif5dNzhyhS/view?usp=drivesdk](https://drive.google.com/file/d/1fNm7tNnvmT9Hmbd_wxyhPOif5dNzhyhS/view?usp=drivesdk)
+- 📄 Student at National Institute of Technology Patna
 
 - ⚡ Fun fact **I think I am Strong**
 
