@@ -1,7 +1,7 @@
 ![logo](https://github.com/TanyaRoy1403/TanyaRoy1403/blob/main/Your%20paragraph%20text.png)
 <h1 align="center">Hi 👋, I'm Tanya Roy</h1>
 <h3 align="center">A passionate MERN developer(and many more) from India</h3>
-<img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&pid=Api&P=0&h=180"
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyaroy1403&label=Profile%20views&color=0e75b6&style=flat" alt="tanyaroy1403" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
