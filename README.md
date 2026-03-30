@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="310" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyaroy1403&label=Profile%20views&color=0e75b6&style=flat" alt="tanyaroy1403" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, LLMOps, AI**
 
 - 📫 How to reach me **roytanya1403@gmail.com**
 
