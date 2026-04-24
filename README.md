@@ -88,7 +88,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://linkedin.com/in/tanya-roy-14cs03">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/tanya-roy-14cs03">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:roytanya1403@gmail.com">
