@@ -71,8 +71,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TanyaRoy1403&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaRoy1403&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanyaRoy1403&theme=radical"/>
 </p>
 
 ---
@@ -88,13 +88,13 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/https://linkedin.com/in/tanya-roy-14cs03">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:roytanya1403@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/TanyaRoy1403">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
