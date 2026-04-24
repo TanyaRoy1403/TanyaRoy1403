@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 Featured Projects
+<!--## 🚀 Featured Projects
 
 ### 🔹 Aivana – AI Learning Assistant
 - 🧠 LLM-powered assistant handling **100+ daily queries**
@@ -66,7 +66,7 @@
 - ⚛️ Built with React + REST APIs  
 - 🚀 Deployed on Vercel with optimized performance  
 
----
+--->>
 
 ## 📊 GitHub Stats
 
